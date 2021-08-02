@@ -1,10 +1,24 @@
-# *Crypto Arbitrage - (m03_challenge_01):*<br><br>
+# *Crypto Arbitrage - (m05_challenge_01A):*<br><br>
 
 ## **Description:**<br>
-This project is designed to consider Arbitrage opportunities in Bitcoin and other cryptocurriencies (to be introduced later). As Bitcoin trades on markets across the globe, we want to capitalize on simultaneous price dislocations in those markets by using the powers of Pandas.
+This project is designed to perform two tasks:
+<br>
+<br>
+### ***Part 1:***<br>
+Create a financial planner for emergencies. The members will be able to use this tool to visualize their current savings. The members can then determine if they have enough reserves for an emergency fund.<br>
 
-For this assignment, we will sort through historical trade data for Bitcoin on two exchanges: Bitstamp and Coinbase. The task is to apply the three phases of financial analysis to determine if any arbitrage opportunities exist for Bitcoin.
+This part is divided into three sub-components:<br>
+1. Evaluate the Cryptocurrency wallet in the portfolio.
+2. Evaluate the Stocks & Bonds in the portfolio.
+3. Evaluate the emergency funds
+<br>
+<br>
 
+### ***Part 2:***<br>
+A financial planner for retirement. This tool will forecast the performance of their retirement portfolio in 30 years. To do this, the tool will make an Alpaca API call via the Alpaca SDK to get historical price data for use in Monte Carlo simulations.
+
+<br>
+We will also use the information from Monte Carlo simulation to answer questions about the portfolio.
 <br>
 
 ## **Phase 1: Collect the Data**<br>
