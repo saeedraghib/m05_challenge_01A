@@ -27,21 +27,20 @@ We will also use the information from Monte Carlo simulation to answer questions
 
 The following packages and dependicies are needed for the proper functioning of the application:
 ### **os:**<br>  
-
+This is an operating system interface library.
 ### **requests:**<br>
-
-### **jason:**<br>
-
+The requests library is the de facto standard for making HTTP requests in Python.
+### **json:**<br>
+Python has a built-in package called json, which can be used to work with JSON data.
 ### **pandas**:<br>
 pandas is a fast, powerful, flexible and easy to use open source data analysis and manipulation tool,
 built on top of the Python programming language.
-
 ### **dotenv:**<br>  
-
+allows the ability to read an environment file that may include API keys.
 ### **tradeapi from Alpaca:**<br>
-
+This library allows the connection (via REST) to Alpaca api to access their data based on API key access
 ### **MCSimpulation:**<br>
-
+This is a file that allows Monte Carlo simulations
 ### **matplotlib:**<br>
 Matplotlib is a plotting library for the Python programming language and its numerical mathematics extension NumPy. It provides an object-oriented API for embedding plots into applications.
 <br>
